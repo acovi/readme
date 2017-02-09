@@ -1,2 +1,7 @@
 # readme
-My own readme project
+
+This is just a readme file.
+
+Simple project.
+
+Done.
